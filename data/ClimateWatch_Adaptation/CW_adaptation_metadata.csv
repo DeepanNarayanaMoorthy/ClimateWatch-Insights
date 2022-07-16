@@ -1,0 +1,18 @@
+﻿column_name,long_name
+poverty_14,Population living below the national income poverty line (%)
+climate_risks,Climate Risk index score
+disasters,Population affected by natural disasters (per year per million people)
+vulnerability,ND-GAIN vulnerability score
+readiness,ND-GAIN readiness score
+wb_urls,Climate risk country profile
+hazard_1,Droughts
+hazard_2,Storms
+hazard_3,Epidemics
+hazard_4,Landslides
+hazard_5,Floods
+hazard_6,Wildfires
+hazard_7,Earthquakes
+hazard_8,Extreme temperatures
+hazard_9,Volcanic activities
+hazard_10,Insect infestations
+hazard_11,Mass movements (dry)
